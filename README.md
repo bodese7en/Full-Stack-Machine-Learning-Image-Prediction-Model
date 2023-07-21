@@ -10,7 +10,7 @@
 1.	Data Preprocessing Utilities: We offer efficient data preprocessing utilities to handle various image formats, resize images, and perform data augmentation to enhance the model's robustness.
 2.	Model Evaluation and Comparison: Comprehensive evaluation scripts allow you to compare the performance of different models using metrics like accuracy, precision, recall, and F1-score.
 3.	Web Application: Our full-stack approach includes a user-friendly web application powered by Flask. This application allows users to upload images and receive real-time predictions from the trained models.
-4.	Model Export and Deployment: We demonstrate how to export trained models to formats compatible with popular deployment frameworks, such as TensorFlow Serving and ONNX.
+4.	Model Export and Deployment: We demonstrate how to export trained models to formats compatible with popular deployment frameworks.
 5.	Code Examples and Tutorials: Detailed code examples and tutorials guide you through each step of the development process, making it easy for learners and enthusiasts to follow along.
 
 #### With this Full Stack Machine Learning Image Prediction Model, you can build sophisticated image classification applications with ease. Whether you're a machine learning researcher, software engineer, or hobbyist, this repository offers a complete package to explore, develop, and deploy image prediction solutions in a user-friendly and efficient manner. Join my community and let's advance the world of data science together!
