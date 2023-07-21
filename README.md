@@ -14,3 +14,4 @@
 5.	Code Examples and Tutorials: Detailed code examples and tutorials guide you through each step of the development process, making it easy for learners and enthusiasts to follow along.
 
 #### With this Full Stack Machine Learning Image Prediction Model, you can build sophisticated image classification applications with ease. Whether you're a machine learning researcher, software engineer, or hobbyist, this repository offers a complete package to explore, develop, and deploy image prediction solutions in a user-friendly and efficient manner. Join my community and let's advance the world of data science together!
+![for git](https://github.com/bodese7en/Full-Stack-Machine-Learning-Image-Prediction-Model/assets/115225579/a0f44ff9-4281-4a82-a680-0c2c58d6871a)
