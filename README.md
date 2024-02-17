@@ -1,3 +1,4 @@
+![for git](https://github.com/bodese7en/Full-Stack-Machine-Learning-Image-Prediction-Model/assets/115225579/a0f44ff9-4281-4a82-a680-0c2c58d6871a)
 # Full-Stack-Machine-Learning-Image-Prediction-Model
 
 #### Description: Welcome to my Full Stack Machine Learning Image Prediction Model repository! This project is a full-stack machine-learning web application that classifies images of footballers using sci-kit-learn libraries. This comprehensive project combines the power of state-of-the-art machine learning algorithms with a robust web application to enable accurate and real-time image predictions. You can use this repository to create a model that can classify images in multiple categories, this makes it perfect for a wide range of applications, from object recognition to content filtering.
@@ -14,4 +15,3 @@
 5.	Code Examples and Tutorials: Detailed code examples and tutorials guide you through each step of the development process, making it easy for learners and enthusiasts to follow along.
 
 #### With this Full Stack Machine Learning Image Prediction Model, you can build sophisticated image classification applications with ease. Whether you're a machine learning researcher, software engineer, or hobbyist, this repository offers a complete package to explore, develop, and deploy image prediction solutions in a user-friendly and efficient manner. Join my community and let's advance the world of data science together!
-![for git](https://github.com/bodese7en/Full-Stack-Machine-Learning-Image-Prediction-Model/assets/115225579/a0f44ff9-4281-4a82-a680-0c2c58d6871a)
